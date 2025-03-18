@@ -63,8 +63,11 @@ Your privacy is our priority! **QuickThumbs AI uses its technology without colle
 
 QuickThumbs AI is your go-to **AI assistant for creating engaging thumbnails in minutes**! Download it today and start creating **smarter, AI-enhanced visuals!** 💥💻
 
+👉 **[Download QuickThumbs AI on Play Store](https://play.google.com/store/apps/details?id=com.kathitechlabs.quickthumbs&hl=en_IN)**
+
 ---
 
 ## 📧 Contact Us
 
 Have questions? Need support? Reach out to us at **huzaifadevstack@gmail.com**. We're here to help! 😊
+
